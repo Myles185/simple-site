@@ -1,17 +1,19 @@
 body {
     font-family: helvetica;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
   }
-  
+ .time-line {
+   background-color: aquamarine;
+   width: 100%;
+ } 
   ul {
     font-family: monospace;
   }
 
 li {
-  list-style: circle;
-}
-
-.list {
-  list-style: square;
+  list-style: none
 }
 
 #date {
